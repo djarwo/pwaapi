@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Sally lightfoot crab","category":"Goldenrod"},
+{"id":2,"name":"Ass, asiatic wild","category":"Indigo"},
+{"id":3,"name":"Orca","category":"Purple"},
+{"id":4,"name":"Egret, great","category":"Aquamarine"},
+{"id":5,"name":"Long-billed corella","category":"Turquoise"},
+{"id":6,"name":"Gerbil (unidentified)","category":"Maroon"},
+{"id":7,"name":"Mule deer","category":"Teal"},
+{"id":8,"name":"Swallow-tail gull","category":"Fuscia"},
+{"id":9,"name":"Tawny frogmouth","category":"Indigo"},
+{"id":10,"name":"Eastern white pelican","category":"Green"},
+{"id":11,"name":"Guanaco","category":"Goldenrod"},
+{"id":12,"name":"Ornate rock dragon","category":"Teal"},
+{"id":13,"name":"Golden-mantled ground squirrel","category":"Aquamarine"},
+{"id":14,"name":"Phascogale, red-tailed","category":"Pink"},
+{"id":15,"name":"Coyote","category":"Blue"},
+{"id":16,"name":"Black-collared barbet","category":"Indigo"},
+{"id":17,"name":"Wallaby, red-necked","category":"Fuscia"},
+{"id":18,"name":"Brown antechinus","category":"Goldenrod"},
+{"id":19,"name":"Stanley crane","category":"Maroon"},
+{"id":20,"name":"Little blue penguin","category":"Maroon"}
+]
+}
